@@ -1,0 +1,31 @@
+h1{
+    color: red;
+}
+ol{
+    background-color: grey;
+}
+b{
+    color:purple;
+}
+.google{
+    background-color: white;
+    border-radius: 40px;
+}
+.mobilenet{
+    background-color: white;
+    border-radius: 40px;
+}
+h4{
+    color: aquamarine;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: palevioletred;
+}
+.copy_right_footer{
+    font-style: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   background-color: pink;
+}
